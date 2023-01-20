@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with new git process
 
 ![laravel lang localizations](https://preview.dragon-code.pro/laravel-lang/localizations.svg?brand=laravel&invert=1)
 

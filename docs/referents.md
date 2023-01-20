@@ -5,7 +5,7 @@
 
 Locale
 
-</th><th width="50%">
+</th><th width="90%">
 
 Developers
 
